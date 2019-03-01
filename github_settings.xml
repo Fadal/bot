@@ -1,0 +1,7 @@
+<application>
+  <component name="GithubAccounts">
+    <account id="bf43093a-1549-454e-8813-3351b768fc0d" name="fadal">
+      <server host="github.com" />
+    </account>
+  </component>
+</application>
